@@ -2,7 +2,7 @@
 const prompt = require("prompt-sync")();
 const name = prompt("Ingresa tu nombre");
 
-//Imprimiendo numeros del 1 - 104
+//Imprimiendo numeros del 1 - 105
 for (let index = 1; index <= 105; index++) {
     console.log(index);
     
